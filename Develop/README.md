@@ -1,8 +1,8 @@
 
-# l
+# README Generator
 
 ## Description
-l
+This application is designed to save students time by generating a README for homewor assignmnts and projects.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ l
 - [Questions](#questions)
 
 ## Installation
-l
+To install, clone README Generator repo and open in VS Code.
 
 ## Usage
-l
+Open an integrated terminal in index.js and run "node index.js". Follow the prompts.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-l
+Gabby
 
 ## Tests
-d
+
 
 ## Questions
 For any questions, you can contact me via:
-- GitHub: [ggg](https://github.com/ggg)
-- Email: kkk
+- GitHub: [gemperador](https://github.com/gemperador)
+- Email: gabriemperador@gmail.com
