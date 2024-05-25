@@ -3,7 +3,7 @@
 
 ## Description
 
-This application is designed to save students time by generating a README for homewor assignmnts and projects.
+This application is designed to save students time by generating a README for homework assignments and projects.
 
 ## Table of Contents
 
@@ -32,9 +32,9 @@ Gabby
 
 ## Links
 
-Link to video submission: https://watch.screencastify.com/v/Fd2evrL7BenSUltvMwld
+Link to video submission: [Link](https://watch.screencastify.com/v/Fd2evrL7BenSUltvMwld)
 
-Link to deployed app: https://gemperador.github.io/READMEgenerator/
+Link to deployed app: [Link](https://gemperador.github.io/READMEgenerator/)
 
 ## Questions
 
@@ -42,4 +42,4 @@ For any questions, you can contact me via:
 
 - GitHub: [gemperador](https://github.com/gemperador)
 
-- Email: gabriemperador@gmail.com
+- Email: [email](gabriemperador@gmail.com)

@@ -1,8 +1,8 @@
-# READMEgenerator# README Generator
+# README Generator
 
 ## Description
 
-This application is designed to save students time by generating a README for homewor assignmnts and projects.
+This application is designed to save students time by generating a README for homework assignmnts and projects.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ This application is designed to save students time by generating a README for ho
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Links](#links)
 - [Questions](#questions)
 
 ## Installation
@@ -27,16 +27,13 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-The functions in generateMarkdown.js and the array of questions in index.js was inspired by discussions and suggestions provided by ChatGPT, a language model by OpenAI.
+Gabby
 
-For more details on ChatGPT, please visit [OpenAI's website](https://www.openai.com/).
+## Links
 
+Link to video submission: [Link](https://watch.screencastify.com/v/Fd2evrL7BenSUltvMwld)
 
-## Tests and Links
-
-Link to video submission: https://watch.screencastify.com/v/Fd2evrL7BenSUltvMwld
-
-Link to GitHub repo: https://gemperador.github.io/READMEgenerator/
+Link to deployed app: [Link](https://gemperador.github.io/READMEgenerator/)
 
 ## Questions
 
@@ -44,4 +41,4 @@ For any questions, you can contact me via:
 
 - GitHub: [gemperador](https://github.com/gemperador)
 
-- Email: gabriemperador@gmail.com
+- Email: [email](gabriemperador@gmail.com)
