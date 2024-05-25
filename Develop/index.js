@@ -31,11 +31,6 @@ const questions = [
       message: 'What are the contribution guidelines?',
     },
     {
-      type: 'input',
-      name: 'tests',
-      message: 'What are the test instructions?',
-    },
-    {
       type: 'list',
       name: 'license',
       message: 'Choose a license for your project:',
@@ -55,7 +50,7 @@ const questions = [
   
 module.exports = questions;
   
-// a function to write README file
+// a function to write README filed
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, generateReadmeContent(data), (err) => {
         if (err) {

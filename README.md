@@ -27,7 +27,10 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Gabby
+The functions in generateMarkdown.js and the array of questions in index.js was inspired by discussions and suggestions provided by ChatGPT, a language model by OpenAI.
+
+For more details on ChatGPT, please visit [OpenAI's website](https://www.openai.com/).
+
 
 ## Tests and Links
 
