@@ -1,45 +1,33 @@
 
-# README Generator
+# Sample README Generator
 
 ## Description
-
-This application is designed to save students time by generating a README for homework assignments and projects.
+To help students save time by generating a README for homework and asignments.
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Links](#links)
+- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
-
-To install, clone README Generator repo and open in VS Code.
+clone repo and in 
 
 ## Usage
-
-Open an integrated terminal in index.js and run "node index.js". Follow the prompts.
+open an intergrated terminal in index.js and run "node inde.js". Follow the prompts
 
 ## License
-
 This project is licensed under the MIT license.
 
 ## Contributing
-
 Gabby
 
-## Links
-
-Link to video submission: [Link](https://watch.screencastify.com/v/Fd2evrL7BenSUltvMwld)
-
-Link to deployed app: [Link](https://gemperador.github.io/READMEgenerator/)
+## Tests
+undefined
 
 ## Questions
-
 For any questions, you can contact me via:
-
 - GitHub: [gemperador](https://github.com/gemperador)
-
-- Email: [email](gabriemperador@gmail.com)
+- Email: gabriemperador@gmail.com
