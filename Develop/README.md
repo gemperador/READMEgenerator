@@ -24,8 +24,10 @@ This project is licensed under the MIT license.
 ## Contributing
 Gabby
 
-## Tests
+## Tests and Links
 
+Link to video submission: https://watch.screencastify.com/v/Fd2evrL7BenSUltvMwld
+Link to GitHub repo: 
 
 ## Questions
 For any questions, you can contact me via:
