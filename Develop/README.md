@@ -1,8 +1,8 @@
 
-# README generator
+# l
 
 ## Description
-Are you so lazy that you dont ever want to write your README? Here is an app to take care of that for you :)
+l
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ Are you so lazy that you dont ever want to write your README? Here is an app to 
 - [Questions](#questions)
 
 ## Installation
-Plug it in
+l
 
 ## Usage
-idk
+l
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-nun
+l
 
 ## Tests
-idk
+d
 
 ## Questions
 For any questions, you can contact me via:
-- GitHub: [gmoney](https://github.com/gmoney)
-- Email: gmoney@gmail.com
+- GitHub: [ggg](https://github.com/ggg)
+- Email: kkk
